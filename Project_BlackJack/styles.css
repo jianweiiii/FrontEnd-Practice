@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: 'Inter';
+    background-color: #016f32;
+}
+
+
+#message{
+    color: goldenrod;
+}
+
+
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 2px;  
+    padding-top: 5px;
+    padding-bottom: 5px;
+      
+}
+
