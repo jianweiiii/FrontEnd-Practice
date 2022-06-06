@@ -1,0 +1,60 @@
+body{
+    background-color: #273549;
+}
+
+h1{
+    text-align: center; 
+}
+
+h2{
+    text-align: center;
+}
+
+#title{
+    padding-top: 100px;
+}
+
+#title-2{
+    color: #10B981;
+}
+
+.generate-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#generate{
+    background-color: #10B981;
+    border: none;
+    border-radius: 3px;
+    opacity: 0.6;
+    /* transition: 0.3s; */
+}
+
+#generate:hover{
+    opacity: 1;
+}
+
+#generate:active{
+    box-shadow: 3px 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #10B981;
+    padding: 20px;
+}
+
+span{
+    padding: 20px;
+    
+    border-radius: 3px;
+    width: 50%;
+    text-align: center;
+}
+
+
